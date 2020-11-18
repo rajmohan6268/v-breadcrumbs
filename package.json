@@ -1,6 +1,6 @@
 {
     "name": "@rajmohan6268/v-breadcrumbs",
-    "version": "0.1.0",
+    "version": "0.1.2",
     "private": false,
     "scripts": {
         "serve": "vue-cli-service serve",
@@ -15,10 +15,10 @@
     "license": "ISC",
     "repository": {
         "type": "git",
-        "url": "git://github.com/%40rajmohan6268/v-breadcrumbs.git"
+        "url": "git://github.com/rajmohan6268/v-breadcrumbs.git"
     },
     "publishConfig": {
-        "registry": "https://github.com/@rajmohan6268"
+        "registry": "https://npm.pkg.github.com/"
     },
     "devDependencies": {
         "@vue/cli-plugin-babel": "~4.5.0",
@@ -62,8 +62,8 @@
     ],
     "description": "## Project setup ``` yarn install ```",
     "bugs": {
-        "url": "https://github.com/%40rajmohan6268/v-breadcrumbs/issues"
+        "url": "https://github.com/rajmohan6268/v-breadcrumbs/issues"
     },
-    "homepage": "https://github.com/%40rajmohan6268/v-breadcrumbs#readme",
+    "homepage": "https://github.com/rajmohan6268/v-breadcrumbs#readme",
     "main": "babel.config.js"
 }
